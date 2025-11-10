@@ -3,6 +3,10 @@
 **A web-based interface for designing and managing metadata structures for Data Vault and dimensional models.**  
 This prototype enables users to visually define business entities, relationships, and mappings — generating consistent model metadata for automation frameworks such as **Data Vault Automation Toolkit**, **dbt**, and **Fabric**.
 
+<p align="center">
+  <img src="metadata-ui-entry.png" width="850" alt="Metadata-Driven Modeling UI – Visual modeling canvas for Data Vault & dimensional metadata">
+</p>
+
 ---
 
 ## Overview
